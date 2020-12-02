@@ -8,19 +8,21 @@
 </template>
 <script>
 import Item from "./components/HelloWorld";
+
 let count = 0;
 export default {
   components: {
     Item
   },
-  data: function() {
+  data: function () {
     return {
       currentValue: 12,
-      add2:'',
-      test1:'',
-      add1:'',
-      arr:[],
-      add:''
+      add2: '',
+      test1: '',
+      test2: '',
+      add: '',
+      add1: '',
+      add3: ''
     };
   },
 };
