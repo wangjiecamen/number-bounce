@@ -16,6 +16,7 @@ export default {
   data: function() {
     return {
       currentValue: 12,
+      add2:'',
       test1:'',
       add1:'',
       arr:[],
