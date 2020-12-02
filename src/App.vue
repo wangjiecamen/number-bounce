@@ -17,7 +17,9 @@ export default {
     return {
       currentValue: 12,
       test1:'',
-      add1:''
+      add1:'',
+      arr:[],
+      add:''
     };
   },
 };
